@@ -1,0 +1,90 @@
+nav
+{
+	height			:	105px;
+}
+
+em
+{
+	font-size		:	85%;
+	margin-left		:	100px;
+}
+
+#reference
+{
+	margin-left		:	100px;
+}
+
+.navbar-header a
+{
+	margin-left		:	50px;
+}
+
+.navbar-header h1
+{
+	margin-left		:	-10px;
+	padding-top		:	10px;
+}
+
+.container ul
+{
+	margin-left		:	435px;
+}
+
+#login
+{
+	border			:	solid green 1px;
+	margin-top		:	10px;
+}
+
+#login span
+{
+	color			:	green;
+}
+
+#register
+{
+	border			:	solid blue 1px;
+	margin-left		:	10px;
+	margin-top		:	10px;
+}
+
+#register span
+{
+	color			:	blue;
+}
+
+article
+{
+	margin-top		:	200px;
+}
+
+article div
+{
+	padding-left	:	250px;
+	width			:	650px;
+	font-size		:	200%;
+}
+
+#status
+{
+	margin-left		:	700px;
+	position		:	relative;
+	bottom			:	250px;
+	border			:	solid green 1px; 
+	width			:	400px;
+}
+
+#status div
+{
+	margin-left		:	50px;
+}
+
+#status h1
+{
+	font-size		:	300%;
+}
+
+#status button
+{
+	font-size		:	350%;
+}
